@@ -8,6 +8,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>this is trail </h1>
       <Header></Header>
       <Shop></Shop>
     </div>
